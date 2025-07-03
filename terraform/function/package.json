@@ -1,0 +1,26 @@
+{
+  "name": "terraform-lambda-example",
+  "version": "1.0.0",
+  "description": "A example Lambda function deployed via Terraform",
+  "keywords": [
+    "Lambda",
+    "AWS",
+    "NodeJS",
+    "Terraform"
+  ],
+  "homepage": "https://github.com/tobias-g/terraform-lambda#readme",
+  "bugs": {
+    "url": "https://github.com/tobias-g/terraform-lambda/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobias-g/terraform-lambda.git"
+  },
+  "license": "ISC",
+  "author": "Tobias Gray",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
